@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>                 
+         <title>my first webpage</title>
+         <meta charset="utf-8">
+         <meta name="viewport" content="width=device-width,initial scale=1">
+         <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+         <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+<link rel="stylesheet"  href="css/animate.css">
+  <script src="js/wow.min.js"></script>
+              <script>
+              new WOW().init();
+              </script>
+         <script src="js/wow/js"></script>
+</head>
+<body background="http://wallpaper-gallery.net/images/background-wallpaper-for-website/background-wallpaper-for-website-14.jpg">
+
+
+<div style="text-align:center;background-color:rgb(0, 32, 128)">
+	<h1 style="color:rgb(255, 255, 255);">
+ RESUME </h1>
+</div>
+<nav class="navbar navbar default">
+ <div class="container fluid">
+<div class="navbar-header">
+       <a href="#" class="navbar-brand"> MY RESUME</a>
+</div>
+<div>
+ <ul class="nav navbar-nav">
+<li class="active"><a href="#">HOME</a></li>
+<li><a href="http://www.ceconline.edu/">CEC online</a></li>
+<li><a href="#">Contacts</a></l1>
+</ul>
+</div>
+</div>
+</nav>
+<div class="wow bounceInUp">
+                  <h1 style="color:rgb(255,255,255);"></h1>
+                  </div>
+<marquee  style="color:rgb(255,255,255);" behaviour="scroll" direction="right">Welcome to my first webpage</marquee>
+<center>
+<img src="https://scontent.fdel1-2.fna.fbcdn.net/v/t1.0-9/14322686_685979361566607_3620624935273747945_n.jpg?oh=bb12da90671211de3ecdd0cbe9d83e63&oe=5913A3FC" height="350" width="150"></center>
+<h5 style="color:	rgb(230, 236, 254)">  PARVATHY NANDAKUMAR
+</h5>
+
+<h5 style="color	:rgb(230, 236, 254)">  KANNAMALA HOUSE
+</h5>
+
+
+<h5 style="color:	rgb(230, 236, 254)">  PANAYAKAZHIPPU
+</h5>
+
+
+<h5 style="color:	rgb(230, 236, 254)">  KOTTAYAM-1
+</h5>
+
+<h5 style="color:	rgb(230, 236, 254)">  8547297942
+</h5>
+
+<h5 style="color:	rgb(230, 236, 254)"> parvathynandakumar97@gmail.com
+</h5>
+<div style="background-color:rgb(0, 115, 153)">
+	<h3 style="color:rgb(255, 255, 255);">
+CAREER OBJRCTIVE:</h3>
+</div>
+<p style="color:rgb(230,236,254)"> To seek for a responsible position in your company where I can put my heart and and soul to complete the duties assigned wholeheartedly and to cherish my dreams.</p>  
+<div style="background-color:rgb(0, 115, 153)">
+	<h3 style="color:rgb(255, 255, 255);">
+EDUCATIONAL QUALIFICATIONS:</h3>
+</div>
+
+<table style="width:100%" border="1" bordercolor="black">
+  <tr>
+    <th style="color:rgb(230,236,254)">COURSE</th>
+    <th style="color:rgb(230,236,254)">NAME OF INSTITUTION</th> 
+    <th style="color:rgb(230,236,254)">YEAR OF PASSING</th>
+    <th style="color:rgb(230,236,254)">PERCENTILE SCORE</th>
+  </tr>
+  <tr>
+    <td style="color:rgb(230,236,254)">B.Tech</td>
+    <td style="color:rgb(230,236,254)"> College of Engineering,Chengannur</td> 
+    <td style="color:rgb(230,236,254)">2019</td>
+    <td style="color:rgb(230,236,254)">82</td>
+  </tr>
+  <tr>
+    <td style="color:rgb(230,236,254)">AISSCE</td>
+    <td style="color:rgb(230,236,254)">Girideepam Bethany Central School,Kottayam</td> 
+    <td style="color:rgb(230,236,254)">2015</td>
+    <td style="color:rgb(230,236,254)">87.5</td>
+  </tr>
+  <tr>
+      <td style="color:rgb(230,236,254)"> 10th standard</td>
+      <td style="color:rgb(230,236,254)"> Girideepam Bethany Central School,kottayam</td>
+      <td style="color:rgb(230,236,254)">2013</td>
+      <td style="color:rgb(230,236,254)">97</td>
+  <tr>
+
+</table>
+
+</body>
+
+</html>
